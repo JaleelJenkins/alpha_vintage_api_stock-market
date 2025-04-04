@@ -72,4 +72,3 @@ To set up Airflow for scheduling the ETL pipeline:
 - Password: admin
 
 6. The DAG is configured to run at 6 PM on weekdays (after market close)
-- You can also trigger it manually from the Airflow UI
